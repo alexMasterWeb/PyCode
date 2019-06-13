@@ -1,2 +1,0 @@
-# PyCode
-Python do MicrosoftVisualStudio
